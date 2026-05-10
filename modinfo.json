@@ -1,0 +1,9 @@
+{
+    "name": "Example Mod",
+    "description": "This is the base for your mod",
+    "icon": "logo.png",
+    "version": "1.0.0",
+    "website": "",
+    "repository": "saiyanzerox/OmniaModBase",
+    "author": "Saiyan0x"
+}
